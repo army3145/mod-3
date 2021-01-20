@@ -1,0 +1,41 @@
+body{
+	background-color: #777;
+}
+
+
+#header-nav {
+	background-color:#158F99;
+	border-radius:0;
+	border:0;
+
+}
+
+ .navbar-brand{
+ 	padding-top: 25px;
+
+ }
+    
+        .navbar-brand h1 {
+         font-family: 'Lora', serif;
+         color: #557c3e;
+         font-size: 1.5em;
+         text-transform: uppercase;
+         font-weight: bold;
+         text-shadow: 1px 1px 1px #222;
+         margin-top: 0;
+         margin-bottom: 10px;
+         line-height:  .75;
+}
+
+p span {
+	color:#fff;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    height: 50px;
+	    }
+
+.navbar-brand p span {
+    vertical-align: center;
+    margin-top: 15px;
+}
+
